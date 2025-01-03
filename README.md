@@ -53,11 +53,14 @@
 [![My Overall stats](https://wakatime.com/share/@luuurker/0574b5d4-a93c-4f63-b211-92a25ddf7dfe.svg)](https://wakatime.com/luuurker)
 <h2 align='left'></h2>
 
+<!--START_SECTION:waka-->  
+![Code Time](http://img.shields.io/badge/Code%20Time-<your-user-id>-blue)  
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-<your-lines-of-code>-blue)  
 
+Last Updated on 03/01/2025 00:30:51 UTC  
+<!--END_SECTION:waka-->  
 
-
-
-
+<h2 align='left'></h2>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
