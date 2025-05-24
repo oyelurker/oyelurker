@@ -62,6 +62,10 @@ Last Updated on 03/01/2025 00:30:51 UTC
 
 <h2 align='left'></h2>
 
+[![Lurker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oyelurker)](https://github.com/oyelurker/oyelurker)
+<h2 align='left'></h2>
+
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
