@@ -50,7 +50,15 @@
 
 [![Code Time](https://wakatime.com/badge/user/54ae2f0e-d05f-49d1-954e-d8c8be284a66.svg)](https://wakatime.com/@54ae2f0e-d05f-49d1-954e-d8c8be284a66)
 
-[![My Overall stats](https://wakatime.com/share/@luuurker/0574b5d4-a93c-4f63-b211-92a25ddf7dfe.svg)](https://wakatime.com/luuurker)
+[![My Overall stats](https://wakatime.com/share/@oyelurker/ca517779-061f-43f6-b6f2-7bd71de63b2e.svg)](https://wakatime.com/@oyelurker)
+
+
+<details>
+  <summary>Lurk My Stats </summary>
+  <p align="center">
+    <img src="https://wakatime.com/share/@oyelurker/f092646c-2e2e-47ee-bec5-a79a54dd9cfb.svg" width="70%">
+  </p>
+</details>
 <h2 align='left'></h2>
 
 <!--START_SECTION:waka-->  
@@ -60,9 +68,6 @@
 Last Updated on 03/01/2025 00:30:51 UTC  
 <!--END_SECTION:waka-->  
 
-<h2 align='left'></h2>
-
-[![Lurker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oyelurker)](https://github.com/oyelurker/oyelurker)
 <h2 align='left'></h2>
 
 
