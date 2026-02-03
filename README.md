@@ -1,39 +1,39 @@
 ### नमस्ते (Namaste)🙏🏻,
 
 ---
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=380&height=30&lines=Sav+this+side+aka+luuurker;Techie+in+the+Making+😎;Upskilling+With+Every+Step;^_^+Nice+To+Meet+You+^_^" center=true />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Sav+this+side+aka+oyelurker;Techie+in+the+Making+😎;Upskilling+With+Every+Step;^_^+Nice+To+Meet+You+^_^" alt="Typing SVG" />
+</div>
 
 <p align="center">
-    <img src="https://universebingo.dev/static/images/universe_header.webp" alt="Github Stats" />
+  <img src="./assets/pixel-art-banner.jpg" width="100%" />
 </p>
 <h2 align='left'></h2>
 
 ### <img src="https://1.bp.blogspot.com/-PDHVMVkbH2I/WCsNM0g5WVI/AAAAAAAAD_A/et3fHf39NnEqIHUDSTu2V5OOl-eBSfpHQCLcB/s1600/corgiswimflip.gif" width="35"> Socials:
 <div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/luuurker">
+  <a href="https://www.linkedin.com/in/oyelurker">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/c/luuurker">
+  <a href="https://www.youtube.com/c/oyelurker">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <a href="https://github.com/luuurker">
+  <a href="https://github.com/oyelurker">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 </a>
-  <a href="https://discord.com/invite/luuurker">
+  <a href="https://discord.com/invite/oyelurker">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
 
 <div id="badges" align="left">
-  <a href="https://leetcode.com/luuurker">
+  <a href="https://leetcode.com/oyelurker">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
-<a href="https://www.hackerrank.com/luuurker">
+<a href="https://www.hackerrank.com/oyelurker">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
-  <a href="https://www.codechef.com/users/luuurker">
+  <a href="https://www.codechef.com/users/oyelurker">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
   </a>
 </div>
@@ -48,10 +48,13 @@
 
 
 
+<div align="center">
+  <a href="https://wakatime.com/@oyelurker">
+    <img src="https://wakatime.com/share/@oyelurker/ca517779-061f-43f6-b6f2-7bd71de63b2e.svg" width="800px" alt="My WakaTime Stats" />
+  </a>
+</div>
+
 [![Code Time](https://wakatime.com/badge/user/54ae2f0e-d05f-49d1-954e-d8c8be284a66.svg)](https://wakatime.com/@54ae2f0e-d05f-49d1-954e-d8c8be284a66)
-
-[![My Overall stats](https://wakatime.com/share/@oyelurker/ca517779-061f-43f6-b6f2-7bd71de63b2e.svg)](https://wakatime.com/@oyelurker)
-
 
 <details>
   <summary>Lurk My Stats </summary>
