@@ -41,52 +41,53 @@
 
 
 ### <img src="https://1.bp.blogspot.com/-PDHVMVkbH2I/WCsNM0g5WVI/AAAAAAAAD_A/et3fHf39NnEqIHUDSTu2V5OOl-eBSfpHQCLcB/s1600/corgiswimflip.gif" width="35"> Languages and Tools:
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=A8B9CC)
-![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</div>
 <h2 align='left'></h2>
 
-
+<table align="center">
+  <tr>
+    <td align="center" width="70%">
+      <a href="https://wakatime.com/@oyelurker">
+        <img src="https://wakatime.com/share/@oyelurker/ca517779-061f-43f6-b6f2-7bd71de63b2e.svg" width="100%" alt="My WakaTime Graph" />
+      </a>
+    </td>
+    <td align="center" width="30%">
+      <a href="https://wakatime.com/@oyelurker">
+        <picture>
+          <source
+            srcset="https://githubstats.mukund.page/api/wakatime?username=oyelurker&v=2&theme=dark&layout=compact"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://githubstats.mukund.page/api/wakatime?username=oyelurker&v=2&layout=compact"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img align="center" src="https://githubstats.mukund.page/api/wakatime?username=oyelurker&v=2&layout=compact" width="100%" alt="WakaTime Stats" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <a href="https://wakatime.com/@oyelurker">
-    <img src="https://wakatime.com/share/@oyelurker/ca517779-061f-43f6-b6f2-7bd71de63b2e.svg" width="800px" alt="My WakaTime Stats" />
+  <a href="https://wakatime.com/@54ae2f0e-d05f-49d1-954e-d8c8be284a66">
+    <img src="https://wakatime.com/badge/user/54ae2f0e-d05f-49d1-954e-d8c8be284a66.svg" alt="Code Time Badge" />
   </a>
 </div>
 
-[![Code Time](https://wakatime.com/badge/user/54ae2f0e-d05f-49d1-954e-d8c8be284a66.svg)](https://wakatime.com/@54ae2f0e-d05f-49d1-954e-d8c8be284a66)
-
-<details>
-  <summary>Lurk My Stats </summary>
-  <p align="center">
-    <img src="https://wakatime.com/share/@oyelurker/f092646c-2e2e-47ee-bec5-a79a54dd9cfb.svg" width="70%">
-  </p>
-</details>
 <h2 align='left'></h2>
-
-<!--START_SECTION:waka-->  
-![Code Time](http://img.shields.io/badge/Code%20Time-<your-user-id>-blue)  
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-<your-lines-of-code>-blue)  
-
-Last Updated on 03/01/2025 00:30:51 UTC  
-<!--END_SECTION:waka-->  
-
-<h2 align='left'></h2>
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luuurker&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luuurker)
-
-
-
-
 
 ---
 <h3 align='center'>⚡️<i>Stay awesome!</i>⚡️</h3>
