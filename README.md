@@ -82,6 +82,7 @@
 <div align="center">
   <a href="https://wakatime.com/@54ae2f0e-d05f-49d1-954e-d8c8be284a66">
     <img src="https://wakatime.com/badge/user/54ae2f0e-d05f-49d1-954e-d8c8be284a66.svg" alt="Code Time Badge" />
+    <img src="https://gitlyy.vercel.app/api/contribution?username=oyelurker&hide_border=true"/>
   </a>
 </div>
 
