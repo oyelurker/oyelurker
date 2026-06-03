@@ -36,11 +36,8 @@ oyelurker@github
 🚀 Semi-Finalist @ RIFT '26 Hackathon
 🤖 SHip
 🎵 I do doo dooo...
-
- 
 💻 Total commits: 410
 ⭐ Total stars gained: 12
-────                                                                            ────
 ```
 
 </td>
