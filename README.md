@@ -16,27 +16,31 @@
 <tr>
 <td width="35%" valign="middle" align="center">
 <!-- Points to your own dynamically generated image -->
-<img src="cropped.jpg" alt="Dynamic Profile Pic" width="250" style="border-radius: 10px;" />
+<img src="cropped.jpg" alt="Dynamic Profile Pic" width="300" style="border-radius: 10px;" />
 <br><br>
 <!-- Added id="color-palette" so your update script catches it flawlessly -->
 <p align="center" id="color-palette">
-  <img alt="placeholder" src="https://dummyimage.com/25x20/000000/000000.png" />
+  <img alt="#a58079" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/a58079.png" width="25" height="20" /><img alt="#1f1718" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/1f1718.png" width="25" height="20" /><img alt="#ebcfbe" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/ebcfbe.png" width="25" height="20" /><img alt="#785453" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/785453.png" width="25" height="20" /><img alt="#3a292b" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/3a292b.png" width="25" height="20" />
 </p>
 </td>
 <td width="65%" valign="middle">
 
 ```text
 oyelurker@github
--------------------------
-🏫 B.Tech CSE Undergrad @ SRM University AP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏫 B.Tech CSE'28 Undergrad @SRM University AP
 🔎 Main interests in Agentic AI and LLM Orchestration
 🌱 Building autonomous systems & GraphRAG architectures
 🛠️ Crafting sleek, minimalist UIs with glassmorphism vibes
 ⚔️ Solving complex Data Structures & Algorithms
 🚀 Semi-Finalist @ RIFT '26 Hackathon
+🤖 SHip
 🎵 I do doo dooo...
-💻 Total commits: {{ COMMITS }}
-⭐ Total stars gained: {{ STARS }}
+
+ 
+💻 Total commits: 410
+⭐ Total stars gained: 12
+────                                                                            ────
 ```
 
 </td>
@@ -47,9 +51,9 @@ oyelurker@github
 
 ### <img src="https://1.bp.blogspot.com/-PDHVMVkbH2I/WCsNM0g5WVI/AAAAAAAAD_A/et3fHf39NnEqIHUDSTu2V5OOl-eBSfpHQCLcB/s1600/corgiswimflip.gif" width="35"> Profile:
 
-Property                 | Lurk  
+Property<img width="100">| Lurk<img width="800">
 -------------------------|------
-**Languages / IDE**      | [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?l=Python&q=user%3Aoyelurker&type=Repositories) [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/search?l=HTML&q=user%3Aoyelurker&type=Repositories) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/search?l=CSS&q=user%3Aoyelurker&type=Repositories) [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/search?l=JavaScript&q=user%3Aoyelurker&type=Repositories) [![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![PyCharm Badge](https://img.shields.io/badge/-PyCharm-21D789?style=flat&logo=pycharm&logoColor=white)](https://github.com/search?l=Python&q=user%3Aoyelurker&type=Repositories) [![Cursor Badge](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories)
+**Languages / IDE**      | [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?l=Python&q=user%3Aoyelurker&type=Repositories) [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/search?l=HTML&q=user%3Aoyelurker&type=Repositories) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/search?l=CSS&q=user%3Aoyelurker&type=Repositories) [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/search?l=JavaScript&q=user%3Aoyelurker&type=Repositories) [![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![PyCharm Badge](https://img.shields.io/badge/-PyCharm-21D789?style=flat&logo=pycharm&logoColor=white)](https://github.com/search?l=Python&q=user%3Aoyelurker&type=Repositories) [![Cursor Badge](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories)
 **Tools / Frameworks**   | [![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://github.com/search?l=Python&q=user%3Aoyelurker&type=Repositories) [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)](https://github.com/search?l=Python&q=user%3Aoyelurker&type=Repositories) [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![LangChain Badge](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories)
 **UI / Design**          | [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=black)](https://github.com/oyelurker) [![Framer Badge](https://img.shields.io/badge/-Framer-000000?style=flat&logo=framer&logoColor=white)](https://github.com/oyelurker)
 **Databases**            | [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![Neo4j Badge](https://img.shields.io/badge/-Neo4j-018BFF?style=flat&logo=neo4j&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories)
