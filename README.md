@@ -10,83 +10,76 @@
 </p>
 <h2 align='left'></h2>
 
-### <img src="https://1.bp.blogspot.com/-PDHVMVkbH2I/WCsNM0g5WVI/AAAAAAAAD_A/et3fHf39NnEqIHUDSTu2V5OOl-eBSfpHQCLcB/s1600/corgiswimflip.gif" width="35"> Socials:
-<div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/oyelurker">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/c/oyelurker">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://github.com/oyelurker">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-</a>
-  <a href="https://discord.com/invite/oyelurker">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-</div>
+<hr>
 
-<div id="badges" align="left">
-  <a href="https://leetcode.com/oyelurker">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-<a href="https://www.hackerrank.com/oyelurker">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
-  </a>
-  <a href="https://www.codechef.com/users/oyelurker">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
-  </a>
-</div>
-<h2 align='left'></h2>
+<table border="0">
+<tr>
+<td width="35%" valign="middle" align="center">
+<img src="https://github.com/oyelurker.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" />
+<br>
+<p align="center">
+<img alt="#d49a96" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/d49a96.png" width="25" height="20" /><img alt="#914042" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/914042.png" width="25" height="20" /><img alt="#b37276" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/b37276.png" width="25" height="20" /><img alt="#e5b2b3" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/e5b2b3.png" width="25" height="20" /><img alt="#342a28" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/342a28.png" width="25" height="20" />
+</p>
+</td>
+<td width="65%" valign="middle">
 
+```
+oyelurker@github
+-------------------------
+🏫 B.Tech CSE Undergrad @ SRM University AP
+🔎 Main interests in Agentic AI and LLM Orchestration
+🌱 Building autonomous systems & GraphRAG architectures
+🛠️ Crafting sleek, minimalist UIs with glassmorphism vibes
+⚔️ Solving complex Data Structures & Algorithms
+🚀 Semi-Finalist @ RIFT '26 Hackathon
+🏋️‍♂️ Maintaining the grind (Gym routine @ 5:30 PM)
+💻 Total commits: {{ COMMITS }}
+⭐ Total stars gained: {{ STARS }}
+```
 
-### <img src="https://1.bp.blogspot.com/-PDHVMVkbH2I/WCsNM0g5WVI/AAAAAAAAD_A/et3fHf39NnEqIHUDSTu2V5OOl-eBSfpHQCLcB/s1600/corgiswimflip.gif" width="35"> Languages and Tools:
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</div>
-<h2 align='left'></h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="70%">
-      <a href="https://wakatime.com/@oyelurker">
-        <img src="https://wakatime.com/share/@oyelurker/ca517779-061f-43f6-b6f2-7bd71de63b2e.svg" width="100%" alt="My WakaTime Graph" />
-      </a>
-    </td>
-    <td align="center" width="30%">
-      <a href="https://wakatime.com/@oyelurker">
-        <picture>
-          <source
-            srcset="https://githubstats.mukund.page/api/wakatime?username=oyelurker&v=2&theme=dark&layout=compact"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://githubstats.mukund.page/api/wakatime?username=oyelurker&v=2&layout=compact"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img align="center" src="https://githubstats.mukund.page/api/wakatime?username=oyelurker&v=2&layout=compact" width="100%" alt="WakaTime Stats" />
-        </picture>
-      </a>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
+<hr>
+
+### <img src="https://1.bp.blogspot.com/-PDHVMVkbH2I/WCsNM0g5WVI/AAAAAAAAD_A/et3fHf39NnEqIHUDSTu2V5OOl-eBSfpHQCLcB/s1600/corgiswimflip.gif" width="35"> Profile:
+
+Property                 | Lurk  
+-------------------------|------
+**Languages / IDE**      | [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?l=Python&q=user%3Aoyelurker&type=Repositories) [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/search?l=HTML&q=user%3Aoyelurker&type=Repositories) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/search?l=CSS&q=user%3Aoyelurker&type=Repositories) [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/search?l=JavaScript&q=user%3Aoyelurker&type=Repositories) [![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![PyCharm Badge](https://img.shields.io/badge/-PyCharm-21D789?style=flat&logo=pycharm&logoColor=white)](https://github.com/search?l=Python&q=user%3Aoyelurker&type=Repositories) [![Cursor Badge](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories)
+**Tools / Frameworks**   | [![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://github.com/search?l=Python&q=user%3Aoyelurker&type=Repositories) [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)](https://github.com/search?l=Python&q=user%3Aoyelurker&type=Repositories) [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![LangChain Badge](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories)
+**UI / Design**          | [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=black)](https://github.com/oyelurker) [![Framer Badge](https://img.shields.io/badge/-Framer-000000?style=flat&logo=framer&logoColor=white)](https://github.com/oyelurker)
+**Databases**            | [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![Neo4j Badge](https://img.shields.io/badge/-Neo4j-018BFF?style=flat&logo=neo4j&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories)
+**Cloud & Infra**        | [![Google Cloud Badge](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![Google ADK Badge](https://img.shields.io/badge/-Google%20ADK-4285F4?style=flat&logo=google&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories)
+**Core Focus**           | [![Agentic AI Badge](https://img.shields.io/badge/-Agentic%20AI-01D277?style=flat&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![Full Stack Dev Badge](https://img.shields.io/badge/-Full%20Stack%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories)
+**Side Projects**        | [![OmniD3sk Badge](https://img.shields.io/badge/-OmniD3sk-000000?style=flat&logo=github&logoColor=white)](https://github.com/oyelurker)
+**Coding Platforms**     | [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/oyelurker) [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/oyelurker) [![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/oyelurker)
+**Reach Me**             | [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:oyelurker+git@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oyelurker) [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/oyelurker)
+
+<hr>
+
 <div align="center">
-  <a href="https://wakatime.com/@54ae2f0e-d05f-49d1-954e-d8c8be284a66">
-    <img src="https://wakatime.com/badge/user/54ae2f0e-d05f-49d1-954e-d8c8be284a66.svg" alt="Code Time Badge" />
-    <img src="https://gitlyy.vercel.app/api/contribution?username=oyelurker&hide_border=true"/>
+  <a href="https://wakatime.com/@oyelurker">
+    <img src="https://wakatime.com/share/@oyelurker/ca517779-061f-43f6-b6f2-7bd71de63b2e.svg" width="80%" alt="My WakaTime Graph" />
   </a>
 </div>
 
 <h2 align='left'></h2>
+
+<details>
+  <summary><b>bla bla...</b> (Click to expand/collapse)</summary>
+  <br />
+  <div align="center">
+    <a href="https://www.last.fm/user/sxvyx">
+      <img src="https://lastfm-recently-played.vercel.app/api?user=sxvyx&count=4" alt="Last.fm" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/the-snesler/discord-github-preview">
+      <img src="https://dsc-readme.tsuni.dev/api/user/546613103714893824?aboutMe=Professionally+better+than+u%7E&pronouns=he%2Fhim&banner=https%3A%2F%2Fi.pinimg.com%2F736x%2Ff5%2Faa%2Fbe%2Ff5aabe9e2e6b3f9ee334f48b281a7992.jpg&theme=githubDark&width=400" alt="oyelurker's Discord status" />
+    </a>
+  </div>
+</details>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luuurker)
 
