@@ -20,7 +20,7 @@
 <br><br>
 <!-- Added id="color-palette" so your update script catches it flawlessly -->
 <p align="center" id="color-palette">
-  <img alt="placeholder" src="https://dummyimage.com/25x20/000000/000000.png" />
+  <img alt="#a58079" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/a58079.png" width="25" height="20" /><img alt="#1f1718" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/1f1718.png" width="25" height="20" /><img alt="#ebcfbe" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/ebcfbe.png" width="25" height="20" /><img alt="#785453" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/785453.png" width="25" height="20" /><img alt="#3a292b" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/3a292b.png" width="25" height="20" />
 </p>
 </td>
 <td width="65%" valign="middle">
@@ -35,8 +35,8 @@ oyelurker@github
 ⚔️ Solving complex Data Structures & Algorithms
 🚀 Semi-Finalist @ RIFT '26 Hackathon
 🎵 I do doo dooo...
-💻 Total commits: {{ COMMITS }}
-⭐ Total stars gained: {{ STARS }}
+💻 Total commits: 410
+⭐ Total stars gained: 12
 ```
 
 </td>
