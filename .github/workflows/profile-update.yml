@@ -22,7 +22,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install requests
+        pip install requests Pillow numpy scikit-learn
 
     - name: Run update script
       env:
@@ -33,6 +33,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add README.md
-        git diff --staged --quiet || git commit -m "🎨 Profile stats update - $(date +'%Y-%m-%d %H:%M')"
+        git add README.md cropped.jpg img/
+        git diff --staged --quiet || git commit -m "🎨 Profile stats & design update - $(date +'%Y-%m-%d %H:%M')"
         git push
