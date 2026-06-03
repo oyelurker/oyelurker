@@ -20,7 +20,7 @@
 <br><br>
 <!-- Added id="color-palette" so your update script catches it flawlessly -->
 <p align="center" id="color-palette">
-  <img alt="#a58079" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/a58079.png" width="25" height="20" /><img alt="#1f1718" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/1f1718.png" width="25" height="20" /><img alt="#ebcfbe" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/ebcfbe.png" width="25" height="20" /><img alt="#785453" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/785453.png" width="25" height="20" /><img alt="#3a292b" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/3a292b.png" width="25" height="20" />
+  <img alt="#e1f1fa" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/e1f1fa.png" width="25" height="20" /><img alt="#332f54" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/332f54.png" width="25" height="20" /><img alt="#0c0220" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/0c0220.png" width="25" height="20" /><img alt="#717390" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/717390.png" width="25" height="20" /><img alt="#bcb0c2" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/bcb0c2.png" width="25" height="20" />
 </p>
 </td>
 <td width="65%" valign="middle">
@@ -28,16 +28,19 @@
 ```text
 oyelurker@github
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏫 B.Tech CSE'28 Undergrad @SRM University AP
-🔎 Main interests in Agentic AI and LLM Orchestration
+🏫 B.Tech CSE'28 Undergrad @ SRM University AP
+🔎 Exploring Agentic AI, LLMs & intelligent systems
 🌱 Building autonomous systems & GraphRAG architectures
+🚀 Connecting LLMs, tools & controlled chaos
+⚔️ Solving Data Structures & Algorithms challenges
 🛠️ Crafting sleek, minimalist UIs with glassmorphism vibes
-⚔️ Solving complex Data Structures & Algorithms
-🚀 Semi-Finalist @ RIFT '26 Hackathon
-🤖 SHip
-🎵 I do doo dooo...
+🌌 Exploring AI, one experiment at a time
+👀 Mostly lurking, occasionally shipping
+
+ 
 💻 Total commits: 410
 ⭐ Total stars gained: 12
+────                                                                            ────
 ```
 
 </td>
@@ -62,16 +65,24 @@ Property<img width="100">| Lurk<img width="800">
 
 <hr>
 
-<div align="center">
-  <a href="https://wakatime.com/@oyelurker">
-    <img src="https://wakatime.com/share/@oyelurker/ca517779-061f-43f6-b6f2-7bd71de63b2e.svg" width="80%" alt="My WakaTime Graph" />
-  </a>
-</div>
+<table align="center">
+<tr>
+<td align="center">
 
-<h2 align='left'></h2>
+<a href="https://wakatime.com/@oyelurker">
+  <img
+    src="https://wakatime.com/share/@oyelurker/ca517779-061f-43f6-b6f2-7bd71de63b2e.svg"
+    width="1000"
+    alt="My WakaTime Graph"
+  />
+</a>
+
+</td>
+</tr>
+</table>
 
 <details>
-  <summary><b>bla bla...</b> (Click to expand/collapse)</summary>
+  <summary><b>Currently Listening & Discord Presence</b> (Click to expand/collapse)</summary>
   <br />
   <div align="center">
     <a href="https://www.last.fm/user/sxvyx">
