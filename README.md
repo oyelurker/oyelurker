@@ -20,7 +20,7 @@
 <br><br>
 <!-- Added id="color-palette" so your update script catches it flawlessly -->
 <p align="center" id="color-palette">
-  <img alt="#f7a6b6" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/f7a6b6.png" width="25" height="20" /><img alt="#28272f" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/28272f.png" width="25" height="20" /><img alt="#f83844" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/f83844.png" width="25" height="20" /><img alt="#3f4385" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/3f4385.png" width="25" height="20" /><img alt="#994956" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/994956.png" width="25" height="20" />
+  <img alt="#4287ed" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/4287ed.png" width="25" height="20" /><img alt="#3a3940" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/3a3940.png" width="25" height="20" /><img alt="#dbd0e1" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/dbd0e1.png" width="25" height="20" /><img alt="#c0887f" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/c0887f.png" width="25" height="20" /><img alt="#d01df1" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/d01df1.png" width="25" height="20" />
 </p>
 </td>
 <td width="65%" valign="middle">
@@ -38,7 +38,7 @@ oyelurker@github
 👀 Mostly lurking, occasionally shipping
 
  
-💻 Total commits: 463
+💻 Total commits: 464
 ⭐ Total stars gained: 13
 ────                                                                            ────
 ```
@@ -61,7 +61,7 @@ Property<img width="100">| Lurk<img width="800">
 **Core Focus**           | [![Agentic AI Badge](https://img.shields.io/badge/-Agentic%20AI-01D277?style=flat&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories) [![Full Stack Dev Badge](https://img.shields.io/badge/-Full%20Stack%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Aoyelurker&type=Repositories)
 **Side Projects**        | [![OmniD3sk Badge](https://img.shields.io/badge/-OmniD3sk-000000?style=flat&logo=github&logoColor=white)](https://github.com/oyelurker)
 **Coding Platforms**     | [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/oyelurker) [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/oyelurker) [![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/oyelurker)
-**Reach Me**             | [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:oyelurker+git@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oyelurker) [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/oyelurker)
+**Reach Me**             | [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:oyelurker+git@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oyelurker) [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/546613103714893824)
 
 <hr>
 
