@@ -20,7 +20,7 @@
 <br><br>
 <!-- Added id="color-palette" so your update script catches it flawlessly -->
 <p align="center" id="color-palette">
-  <img alt="#f25728" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/f25728.png" width="25" height="20" /><img alt="#e9ac9d" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/e9ac9d.png" width="25" height="20" /><img alt="#b48042" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/b48042.png" width="25" height="20" /><img alt="#5f453d" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/5f453d.png" width="25" height="20" /><img alt="#f5d109" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/f5d109.png" width="25" height="20" />
+  <img alt="#fdfdf9" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/fdfdf9.png" width="25" height="20" /><img alt="#2e2b27" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/2e2b27.png" width="25" height="20" /><img alt="#b79878" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/b79878.png" width="25" height="20" /><img alt="#dfc8b0" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/dfc8b0.png" width="25" height="20" /><img alt="#121111" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/121111.png" width="25" height="20" />
 </p>
 </td>
 <td width="65%" valign="middle">
