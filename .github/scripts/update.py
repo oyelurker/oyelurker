@@ -15,35 +15,147 @@ OUTPUT_FILE = 'README.md'
 CROPPED_IMG = 'cropped.jpg'
 # ---------------------
 
+def fetch_cached_stats():
+    """Reads fallback stats from README.md if API calls fail."""
+    import re
+    commits, stars = None, None
+    if os.path.exists(OUTPUT_FILE):
+        try:
+            with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
+                content = f.read()
+            c_match = re.search(r'Total commits:\s*(\d+)', content)
+            s_match = re.search(r'Total stars gained:\s*(\d+)', content)
+            if c_match:
+                commits = int(c_match.group(1))
+            if s_match:
+                stars = int(s_match.group(1))
+        except Exception:
+            pass
+    return commits or 656, stars or 15
+
 def fetch_github_stats():
-    """Fetches commits and stars using GitHub GraphQL API."""
+    """Fetches total lifetime commits and stars using GitHub Search, GraphQL, and REST APIs."""
     headers = {"Authorization": f"Bearer {TOKEN}"} if TOKEN else {}
-    query = """
-    {
-      user(login: "%s") {
-        contributionsCollection {
-          totalCommitContributions
-        }
-        repositories(first: 100, ownerAffiliations: OWNER, isFork: false) {
-          nodes {
-            stargazerCount
+    fallback_commits, fallback_stars = fetch_cached_stats()
+    
+    # 1. Total Lifetime Commits
+    total_commits = None
+    
+    # Method A: GitHub Commit Search API (author:oyelurker across all repositories and years)
+    try:
+        search_headers = dict(headers)
+        search_headers["Accept"] = "application/vnd.github.cloak-preview"
+        search_url = f"https://api.github.com/search/commits?q=author:{USERNAME}"
+        res = requests.get(search_url, headers=search_headers, timeout=10)
+        if res.status_code == 200:
+            data = res.json()
+            if "total_count" in data:
+                total_commits = data["total_count"]
+    except Exception as e:
+        print(f"Commit Search API error: {e}")
+
+    # Method B: GraphQL multi-year contributions (fallback)
+    if total_commits is None:
+        try:
+            query_years = """
+            query($login: String!) {
+              user(login: $login) {
+                contributionsCollection {
+                  contributionYears
+                }
+              }
+            }
+            """
+            res = requests.post(
+                'https://api.github.com/graphql',
+                json={'query': query_years, 'variables': {'login': USERNAME}},
+                headers=headers,
+                timeout=10
+            )
+            if res.status_code == 200:
+                years = res.json().get('data', {}).get('user', {}).get('contributionsCollection', {}).get('contributionYears', [])
+                if years:
+                    year_queries = [
+                        f"""
+                        y{y}: contributionsCollection(from: "{y}-01-01T00:00:00Z", to: "{y}-12-31T23:59:59Z") {{
+                          totalCommitContributions
+                          restrictedContributionsCount
+                        }}
+                        """
+                        for y in years
+                    ]
+                    full_query = "query { user(login: \"%s\") { %s } }" % (USERNAME, " ".join(year_queries))
+                    res_years = requests.post('https://api.github.com/graphql', json={'query': full_query}, headers=headers, timeout=10)
+                    if res_years.status_code == 200:
+                        user_data = res_years.json().get('data', {}).get('user', {})
+                        commits_sum = sum(
+                            user_data.get(f'y{y}', {}).get('totalCommitContributions', 0) +
+                            user_data.get(f'y{y}', {}).get('restrictedContributionsCount', 0)
+                            for y in years
+                        )
+                        if commits_sum > 0:
+                            total_commits = commits_sum
+        except Exception as e:
+            print(f"GraphQL commits error: {e}")
+
+    if total_commits is None:
+        total_commits = fallback_commits
+
+    # 2. Total Stars
+    total_stars = None
+    
+    # Method A: GraphQL
+    try:
+        stars_query = """
+        query($login: String!) {
+          user(login: $login) {
+            repositories(first: 100, ownerAffiliations: OWNER, isFork: false) {
+              nodes {
+                stargazerCount
+              }
+            }
           }
         }
-      }
-    }
-    """ % USERNAME
-
-    try:
-        response = requests.post('https://api.github.com/graphql', json={'query': query}, headers=headers)
-        response.raise_for_status()
-        data = response.json()['data']['user']
-        
-        total_commits = data['contributionsCollection']['totalCommitContributions']
-        total_stars = sum(repo['stargazerCount'] for repo in data['repositories']['nodes'])
-        return total_commits, total_stars
+        """
+        res = requests.post(
+            'https://api.github.com/graphql',
+            json={'query': stars_query, 'variables': {'login': USERNAME}},
+            headers=headers,
+            timeout=10
+        )
+        if res.status_code == 200:
+            repos = res.json().get('data', {}).get('user', {}).get('repositories', {}).get('nodes', [])
+            total_stars = sum(repo['stargazerCount'] for repo in repos)
     except Exception as e:
-        print(f"Error fetching stats: {e}")
-        return "{{ COMMITS }}", "{{ STARS }}"
+        print(f"GraphQL stars error: {e}")
+
+    # Method B: REST API (fallback for stars)
+    if total_stars is None:
+        try:
+            stars_sum = 0
+            page = 1
+            while True:
+                url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100&page={page}&type=owner"
+                res = requests.get(url, headers=headers, timeout=10)
+                if res.status_code != 200:
+                    break
+                repos = res.json()
+                if not repos or not isinstance(repos, list):
+                    break
+                for repo in repos:
+                    if not repo.get('fork', False):
+                        stars_sum += repo.get('stargazers_count', 0)
+                if len(repos) < 100:
+                    break
+                page += 1
+            total_stars = stars_sum
+        except Exception as e:
+            print(f"REST stars error: {e}")
+
+    if total_stars is None:
+        total_stars = fallback_stars
+
+    return total_commits, total_stars
 
 def get_random_image():
     """Selects a random image from the Waifu folder."""
