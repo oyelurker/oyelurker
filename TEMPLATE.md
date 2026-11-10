@@ -65,11 +65,10 @@ Property<img width="100">| Lurk<img width="800">
 
 <hr>
 
-<!-- ASCII eye frame: image assets work in GitHub's sanitized README renderer. -->
+<!-- Upper eye and live graph share one centered block and the same display width. -->
 <p align="center">
-  <img src="./assets/ascii-eye-top.gif" width="1000" alt="Upper half of an animated amber ASCII eye" /><br />
-  <a href="https://wakatime.com/@oyelurker"><img src="https://wakatime.com/share/@oyelurker/ca517779-061f-43f6-b6f2-7bd71de63b2e.svg" width="1000" alt="My WakaTime Graph" /></a><br />
-  <img src="./assets/ascii-eye-bottom.gif" width="1000" alt="Lower half of an animated amber ASCII eye" />
+  <img src="./assets/ascii-eye-header.gif" width="1000" alt="Full-width blue ASCII eye with an amber character border opening and blinking above my coding activity" /><br />
+  <a href="https://wakatime.com/@oyelurker"><img src="https://wakatime.com/share/@oyelurker/ca517779-061f-43f6-b6f2-7bd71de63b2e.svg" width="1000" alt="My WakaTime Graph" /></a>
 </p>
 
 <details>
