@@ -20,7 +20,7 @@
 <br><br>
 <!-- Added id="color-palette" so your update script catches it flawlessly -->
 <p align="center" id="color-palette">
-  <img alt="#fdc592" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/fdc592.png" width="25" height="20" /><img alt="#1f100b" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/1f100b.png" width="25" height="20" /><img alt="#c19373" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/c19373.png" width="25" height="20" /><img alt="#93432d" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/93432d.png" width="25" height="20" /><img alt="#f78c4e" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/f78c4e.png" width="25" height="20" />
+  <img alt="#1d181e" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/1d181e.png" width="25" height="20" /><img alt="#da6364" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/da6364.png" width="25" height="20" /><img alt="#a41f1e" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/a41f1e.png" width="25" height="20" /><img alt="#64618b" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/64618b.png" width="25" height="20" /><img alt="#df2f2c" src="https://raw.githubusercontent.com/oyelurker/oyelurker/main/img/df2f2c.png" width="25" height="20" />
 </p>
 </td>
 <td width="65%" valign="middle">
@@ -39,7 +39,7 @@ oyelurker@github
 
  
 💻 Total commits: 777
-⭐ Total stars gained: 15
+⭐ Total stars gained: 14
 ────                                                                            ────
 ```
 
